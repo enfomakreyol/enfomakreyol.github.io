@@ -114,14 +114,14 @@
     border-radius: 10px;
     background: rgb(1, 1, 56);
     color: white;
-    padding: 4px;
+    padding: 10px;
   }
 
   .detailsHome h1{
     text-transform: uppercase;
     font-size: 6vw;
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
-    margin: 2px 10px 5px 2px;
+    margin: 10px 10px 5px 2px;
   }
   .detailsHome h2{
     text-transform: capitalize;
@@ -135,6 +135,7 @@
     border-radius: 10px;
     padding:2px 10px 2px 10px;
     margin-top: 2px;
+    margin-bottom: 10px;
     background-color: aliceblue;
     color: black;
     line-height: bold;
